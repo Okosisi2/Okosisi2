@@ -37,7 +37,8 @@ Track, forecast, and visualize course progress across a multi-platform learning 
 
 ## 📈 GitHub Stats 
 
-![Okosisi2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okosisi2&show_icons=true&theme=default)
+![Okosisi2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okosisi2&show_icons=true&theme=radical&count_private=true)
+
 
 ---
 
