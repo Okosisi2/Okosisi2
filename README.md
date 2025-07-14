@@ -14,7 +14,7 @@ I'm following a structured learning roadmap across platforms like **DataCamp**, 
 
 ### 📊 Learning Tracker & Dashboard – Smart Google Sheets Automation  
 Track, forecast, and visualize course progress across a multi-platform learning plan. Includes smart projected timelines, pacing feedback, and a deliverables view.  
-🔗 
+🔗 https://github.com/Okosisi2/Learning-Progress-Dashboard
 
 ---
 
